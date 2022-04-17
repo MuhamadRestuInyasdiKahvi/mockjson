@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "Restu",
+      "email": "restukahfi89@gmail.com",
+      "nim": "J0303201136",
+      "jurusan": "INF"
+    },
+    {
+      "id": 2,
+      "nama": "kahvi",
+      "email": "kahvi@gmail.com",
+      "nim": "J0303201137",
+      "jurusan": "INF"
+    }
+  ]
+}
