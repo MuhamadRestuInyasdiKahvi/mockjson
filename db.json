@@ -1,18 +1,20 @@
 {
-  "users": [
+  "handphone": [
     {
-      "id": 1,
-      "nama": "Restu",
-      "email": "restukahfi89@gmail.com",
-      "nim": "J0303201136",
-      "jurusan": "INF"
+      "merk": "Xiomi",
+      "harga": "20000000",
+      "tipe": "Redmi",
+      "internal": "124 GB",
+      "warna": "Hitam",
+      "id": 1
     },
     {
-      "id": 2,
-      "nama": "kahvi",
-      "email": "kahvi@gmail.com",
-      "nim": "J0303201137",
-      "jurusan": "INF"
+      "merk": "Samsung",
+      "harga": "2000000",
+      "tipe": "Galaxy",
+      "internal": "128 GB",
+      "warna": "Biru",
+      "id": 2
     }
   ]
 }
